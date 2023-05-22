@@ -1,6 +1,6 @@
 - Hi, I’m @marek-jakub
 - I’m interested in data science and software development.
-- I’m currently in my final university year, studying modules Data Analysis and Software Development.
+- I’m currently in my final university year, creating a university project concerning bird ringing data management.
 - You can reach me at mj3935538@gmail.com.
 
 <!---
